@@ -13,3 +13,7 @@ using a similar method to install a debugged version of deepdish.
 
 Finally, launch jupyter notebook or jupyter lab from your environment and 
 run the notebooks in the virtual server.
+
+# TODO
+
+upload (pull?) modified deepdish
