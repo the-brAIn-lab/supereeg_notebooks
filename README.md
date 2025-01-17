@@ -9,7 +9,8 @@ To install the correct version, clone the supereeg fork from
     https://github.com/the-brAIn-lab/supereeg
 and checkout the branch 'adam'. Then install this package to your
 environment, eg 'conda develop ./supereeg' along with the dependencies,
-using a similar method to install a debugged version of deepdish.
+using a similar method to install a debugged version of deepdish. You
+could surely use another updated version of supereeg the same.
 
 Finally, launch jupyter notebook or jupyter lab from your environment and 
 run the notebooks in the virtual server.
