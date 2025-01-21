@@ -6,5 +6,6 @@
 !nibabel/
 !supereeg_tutorials/
 !miller_data/
+!miller_data/*.mo
 !pachitariu_data/
 
